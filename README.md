@@ -25,5 +25,6 @@
 
 
 🔗 **Conecte-se comigo!**    
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessus-allefh-de-medeiros-silva-213205b2/)  
 
