@@ -17,8 +17,10 @@
 
 ### 📊 Estatísticas do GitHub:
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allefhmedeiros&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allefhmedeiros&layout=compact&theme=radical) |
-|---|---|
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allefhmedeiros&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefhmedeiros&layout=compact&theme=radical"/>
+</div>
 
 
 
