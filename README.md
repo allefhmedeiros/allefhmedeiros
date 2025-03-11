@@ -17,6 +17,8 @@
 
 ### 📊 Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allefhmedeiros&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allefhmedeiros&layout=compact&theme=radical)
+
 
 🔗 **Conecte-se comigo!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessus-allefh-de-medeiros-silva-213205b2/)
