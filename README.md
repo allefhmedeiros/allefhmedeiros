@@ -17,6 +17,7 @@
 
 ### 📊 Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allefhmedeiros&show_icons=true&theme=radical)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 🔗 **Conecte-se comigo!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/jessus-allefh-de-medeiros-silva-213205b2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/jessus-allefh-de-medeiros-silva-213205b2/)](https://www.linkedin.com/in/jessus-allefh-de-medeiros-silva-213205b2/))
