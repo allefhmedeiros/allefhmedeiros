@@ -1,9 +1,9 @@
 # 👋 Olá, sou Jessus!
 
-💻 Desenvolvedor Full Stack | ☕ Java 
-⚙️ Engenheiro de Computação
-📚 Apaixonado por tecnologia e aprendizado contínuo  
-🚀 Criando projetos incríveis e compartilhando conhecimento  
+💻 Desenvolvedor Full Stack | ☕ Java   
+⚙️ Engenheiro de Computação   
+📚 Apaixonado por tecnologia e aprendizado contínuo     
+🚀 Criando projetos incríveis e compartilhando conhecimento     
 
 ---
 
